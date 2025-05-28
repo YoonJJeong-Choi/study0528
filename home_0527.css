@@ -1,0 +1,25 @@
+body{
+    background-color: thistle;
+}
+
+h1{
+    color: steelblue;
+}
+
+input[type=text]{
+    width: 300px;
+    height: 20px;
+    border: 5px solid lavender;
+}
+
+/* aside{
+    width: 200px;
+    height: 100vh;
+    background-color: palegoldenrod;
+    margin-left: -150px;
+    transition: 1s;
+}
+
+aside.active{
+    margin-left: 0px;
+} */
